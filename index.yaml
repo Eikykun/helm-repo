@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  kridge:
+  - apiVersion: v1
+    appVersion: 0.0.1-demo.0
+    created: "2023-07-17T10:06:39.998350978Z"
+    description: Helm chart for kridge components
+    digest: 4c87619bb3fd96a55af1dcebce1a9bd5d48a32508696032e285e820a48b6a060
+    home: https://eikykun.github.io
+    name: kridge
+    sources:
+    - https://github.com/Eikykun/helm-repo
+    urls:
+    - https://github.com/Eikykun/helm-repo/releases/download/kridge-0.0.1-demo.0/kridge-0.0.1-demo.0.tgz
+    version: 0.0.1-demo.0
+generated: "2023-07-17T10:06:39.998355478Z"
